@@ -1,0 +1,5 @@
+L:\sharedfolder\projects\visual studio 2010 projects\c#\MindHelper\MindHelper\bin\Debug\MindHelper.exe
+L:\sharedfolder\projects\visual studio 2010 projects\c#\MindHelper\MindHelper\bin\Debug\MindHelper.pdb
+L:\sharedfolder\projects\visual studio 2010 projects\c#\MindHelper\MindHelper\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\sharedfolder\projects\visual studio 2010 projects\c#\MindHelper\MindHelper\obj\x86\Debug\MindHelper.exe
+L:\sharedfolder\projects\visual studio 2010 projects\c#\MindHelper\MindHelper\obj\x86\Debug\MindHelper.pdb
